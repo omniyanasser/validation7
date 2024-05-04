@@ -1,0 +1,23 @@
+.message{
+    background-color: red;
+    color:white;
+    transition: all 1s ease;
+    margin-bottom: 15px;
+    padding: 10px;
+    text-align: center;
+}
+
+.icon-format{
+ top: 12px ;
+ left: 15px;
+}
+
+.format-password{
+    top: 12px ;
+    right: 15px;
+
+}
+
+.icon-fav{
+ float:right;
+}
